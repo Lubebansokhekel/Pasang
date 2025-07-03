@@ -1,0 +1,37 @@
+#!/bin/bash
+              if command -v nala > /dev/null 2>&1; then
+    paket="nala"
+else
+    paket="pkg"
+fi
+               $paket install git -y
+               $paket install bash -y
+               $paket install neofetch -y
+               $paket install sox -y
+               $paket install mpv -y
+               $paket install dialog -y
+               $paket install cowsay -y
+               $paket install ruby -y
+               $paket install neovim -y
+               $paket install coreutils -y
+               $paket install xz-utils -y
+               $paket install bc boxes -y
+               $paket install ncurses-utils -y
+               $paket install tree -y
+               $paket install cmake -y
+               $paket install nodejs -y
+               $paket install clang -y
+               $paket install make -y
+               $paket install inotifywait
+               $paket install binutils -y
+               $paket install cowsay -y
+               $paket install zip -y
+               $paket install unzip -y
+               $paket install jq -y
+               $paket install ossp-uuid -y
+               $paket install xxd -y
+               $paket install openssl -y
+               $paket install openssl-tool -y
+               npm -g i bash-obfuscate
+               pip install rich rich-cli
+               gem install lolcat
