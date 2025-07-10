@@ -1,5 +1,5 @@
 tutor:
-	@termux-open-url "https://www.youtube.com/@GalirusProjects"
+	@termux-open "https://www.youtube.com/@GalirusProjects"
         @echo ""
 
 run:
