@@ -1,5 +1,5 @@
 tutor:
-	@xdg-open "https://example.com/tutorial"
+	@xdg-open "https://www.youtube.com/@GalirusProjects"
 
 run:
 	@echo "[ [! ] menjalankan script mohon tunggu sebentar"
