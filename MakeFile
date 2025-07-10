@@ -1,5 +1,6 @@
 tutor:
-	@xdg-open "https://www.youtube.com/@GalirusProjects"
+	@termux-open-url "https://www.youtube.com/@GalirusProjects"
+        @echo ""
 
 run:
 	@echo "[ [! ] menjalankan script mohon tunggu sebentar"
