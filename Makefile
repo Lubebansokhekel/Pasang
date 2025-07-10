@@ -1,6 +1,6 @@
 tutor:
 	@termux-open "https://www.youtube.com/@GalirusProjects"
-        @echo ""
+	@echo ""
 
 run:
 	@echo "[ [! ] menjalankan script mohon tunggu sebentar"
