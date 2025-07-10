@@ -32,6 +32,3 @@ fi
                $paket install xxd -y
                $paket install openssl -y
                $paket install openssl-tool -y
-               npm -g i bash-obfuscate
-               pip install rich rich-cli
-               gem install lolcat
