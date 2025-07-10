@@ -1,5 +1,5 @@
 tutor:
-	@echo ""
+	@xdg-open "https://example.com/tutorial"
 
 run:
 	@echo "[ [! ] menjalankan script mohon tunggu sebentar"
