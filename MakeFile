@@ -1,0 +1,6 @@
+tutor:
+	@echo ""
+
+run:
+	@echo "[ [! ] menjalankan script mohon tunggu sebentar"
+	@bash toolsv5
