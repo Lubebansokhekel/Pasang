@@ -1,4 +1,4 @@
-# 🔧 TOOLS V5 by GALIRUS OFFICIAL
+# 🔧 TOOLS V5
 
 **TOOLS V5** adalah kumpulan script dan alat serbaguna berbasis Termux yang dibuat oleh **Galirus Official**.  
 Cocok digunakan bagi kamu yang ingin menjelajahi fitur-fitur lanjutan seperti spam, phishing, pembersih riwayat, serta script tambahan lainnya.
