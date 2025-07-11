@@ -16,8 +16,7 @@ Cocok digunakan bagi kamu yang ingin menjelajahi fitur-fitur lanjutan seperti sp
 - 📲 **Spam Tools** — Beragam metode spam (SMS, WA, dll)  
 - 🎣 **Phishing Kit** — Template & metode phising siap pakai  
 - 🧹 **Pembersih Riwayat** — Menghapus jejak dan file sampah  
-- 🛠️ **SC Tambahan** — Script custom dan alat-alat tambahan  
-- 🔐 **Anti Deteksi** — Menyamarkan aktivitas  
+- 🛠️ **SC Tambahan** — Script custom dan alat-alat tambahan   
 - ⚙️ **Lainnya** — Terus dikembangkan dan diperbarui
 
 ---
