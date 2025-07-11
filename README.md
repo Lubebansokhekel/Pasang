@@ -1,28 +1,38 @@
-# TOOLS V5
+# 🔧 TOOLS V5 by GALIRUS OFFICIAL
 
-Repository ini berisi koleksi alat dan skrip untuk Termux.
+**TOOLS V5** adalah kumpulan script dan alat serbaguna berbasis Termux yang dibuat oleh **Galirus Official**.  
+Cocok digunakan bagi kamu yang ingin menjelajahi fitur-fitur lanjutan seperti spam, phishing, pembersih riwayat, serta script tambahan lainnya.
 
-## Screenshot
+---
+
+## 📸 Screenshot
 
 ![Screenshot Termux](IMG-20250209-WA0000.jpg)
 
-## Instalasi
+---
 
-Untuk menggunakan alat-alat ini, ikuti langkah-langkah instalasi di bawah ini di Termux:
+## 🧰 Fitur-Fitur TOOLS V5
+
+- 📲 **Spam Tools** — Beragam metode spam (SMS, WA, dll)  
+- 🎣 **Phishing Kit** — Template & metode phising siap pakai  
+- 🧹 **Pembersih Riwayat** — Menghapus jejak dan file sampah  
+- 🛠️ **SC Tambahan** — Script custom dan alat-alat tambahan  
+- 🔐 **Anti Deteksi** — Menyamarkan aktivitas  
+- ⚙️ **Lainnya** — Terus dikembangkan dan diperbarui
+
+---
+
+## 🚀 Cara Instalasi
+
+Jalankan perintah berikut di aplikasi **Termux** kamu:
 
 ```bash
 pkg update
-pkg install python python3 nala -y
-pkg install python coreutils ncurses-utils python-pip nodejs bc ruby -y
-pkg install make clang git gcc -y
-pkg install openssl-tool xz-utils bzip2 boxes jq toilet -y
-npm install -g bash-obfuscate
-gem install lolcat
-pip install rich
-pip install rich-cli
+pkg upgrade -y
+pkg install make clang git -y
 git clone https://github.com/Lubebansokhekel/Pasang
 cd Pasang
-make tutor
+echo " [ INFO ] Silahkan Ketik make help"
 ```
 
 # WHATSAPP
