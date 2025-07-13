@@ -31,7 +31,8 @@ pkg upgrade -y
 pkg install make clang git -y
 git clone https://github.com/Lubebansokhekel/Pasang
 cd Pasang
-echo " [ INFO ] Silahkan Ketik make help"
+make install
+make run
 ```
 
 # WHATSAPP
