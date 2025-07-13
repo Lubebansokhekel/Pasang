@@ -29,6 +29,7 @@ Jalankan perintah berikut di aplikasi **Termux** kamu:
 pkg update
 pkg upgrade -y
 pkg install make clang git -y
+cd $HOME
 git clone https://github.com/Lubebansokhekel/Pasang
 cd Pasang
 make install
