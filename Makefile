@@ -32,7 +32,6 @@ install:
 	@gem install lolcat
 	@pip install rich
 	@pip install rich-cli
-	@touch "$HOME/stap1"
 	@echo "[ ✔ ] Semua paket berhasil diinstal!"
 
 tutor:
@@ -57,9 +56,5 @@ run:
 	@echo "   ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚══════╝  ╚═══╝  ╚══════╝"
 	@echo
 	@echo
-	@if [ -f "$HOME/stap1" ]; then \
 		echo "[ ! ] Menjalankan script, mohon tunggu sebentar..."; \
-		bash toolsv5; \
-	else \
-		echo "Silahkan ketik [ make install ] terlebih dahulu"; \
-	fi
+		bash toolsv5
