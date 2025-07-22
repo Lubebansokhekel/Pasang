@@ -57,5 +57,5 @@ run:
 	@echo "   ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚══════╝  ╚═══╝  ╚══════╝"
 	@echo
 	@echo
-		echo "[ ! ] Menjalankan script, mohon tunggu sebentar..."; \
+	@echo "[ ! ] Menjalankan script, mohon tunggu sebentar..."; \
 		bash toolsv5
