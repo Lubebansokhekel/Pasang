@@ -26,7 +26,7 @@ install:
 	@echo "[ ! ] Memulai instalasi semua dependensi..."
 	@pkg update -y && pkg upgrade -y
 	@pkg install python python3 nala git -y
-	@pkg install coreutils ncurses-utils python-pip nodejs bc ruby -y
+	@pkg install coreutils ncurses-utils which python-pip nodejs bc ruby -y
 	@pkg install openssl-tool xz-utils bzip2 boxes jq cowsay toilet -y
 	@gem install lolcat
 	@npm install -g bash-obfuscate
