@@ -8,9 +8,15 @@ Cocok digunakan bagi kamu yang ingin menjelajahi fitur-fitur lanjutan seperti sp
 
 ---
 
-## 📸 Screenshot
+## 📸 Screenshot TOOLS V5
 
-![Screenshot Termux](https://od.lk/s/NzNfMTA0ODk1ODg4Xw/Screenshot_2025-09-09-21-55-01-768_com.termux.jpg)
+| Menu Awal | Menu Spam |
+|-----------|-----------|
+| ![Menu Awal](https://od.lk/s/NzNfMTA0ODk1ODg4Xw/Screenshot_2025-09-09-21-55-01-768_com.termux.jpg) | ![Menu Spam](https://od.lk/s/NzNfMTA0ODk1OTkwXw/Screenshot_2025-09-09-22-03-33-235_com.termux.jpg) |
+
+| Menu All | Menu Enc |
+|----------|----------|
+| ![Menu All](https://od.lk/s/NzNfMTA0ODk1OTkxXw/Screenshot_2025-09-09-22-03-51-534_com.termux.jpg) | ![Menu Enc](https://od.lk/s/NzNfMTA0ODk1OTkyXw/Screenshot_2025-09-09-22-04-09-141_com.termux.jpg)
 
 ---
 
