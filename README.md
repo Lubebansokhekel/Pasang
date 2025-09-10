@@ -6,10 +6,19 @@
 <h1 align="center">🔧 TOOLS V5</h1>
 
 ![logo TOOLSV5](https://od.lk/s/NzNfMTA0ODk1NzEwXw/IMG-20250908-WA0028.jpg)
-**TOOLS V5** adalah kumpulan script Termux yang dirancang untuk belajar, eksperimen, dan eksplorasi fitur lanjutan.
-Di dalamnya ada berbagai contoh tools seperti spam, phishing, cleaner, dan script tambahan lain yang bisa dipelajari cara kerjanya.
-Cocok untuk pemula maupun pengguna berpengalaman yang ingin memahami dunia scripting di Termux
----
+**TOOLS V5** adalah kumpulan script Termux yang dirancang sebagai bahan **pembelajaran dan eksplorasi**.  
+Di dalamnya terdapat berbagai fitur seperti **spam tools, phishing kit, pembersih riwayat, dan script tambahan**, yang bisa dipelajari cara kerjanya.  
+Dengan TOOLS V5, kamu dapat memahami bagaimana sebuah script bekerja di Termux, sekaligus melatih kemampuan mengelola dan memodifikasi tool sesuai kebutuhan. 
+
+**kamu bisa langsung menikmati fitur-fitur keren seperti:**
+
+- 📩 **Spam Tools** (SMS, WhatsApp, dll)  
+- 🎭 **Phishing Kit** siap pakai  
+- 🧹 **Cleaner** untuk hapus riwayat & jejak  
+- ⚙️ **Update Auto** dengan update berkala
+- Dll.
+
+⚡ Singkatnya, **TOOLS V5 = semua yang kamu butuhkan di Termux, praktis & powerful!**
 
 <h2 align="center">📸 Screenshot TOOLS V5</h2>
 
