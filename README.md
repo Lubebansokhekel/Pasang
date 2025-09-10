@@ -19,7 +19,7 @@ Cocok digunakan bagi kamu yang ingin menjelajahi fitur-fitur lanjutan seperti sp
 
 | Menu All | Menu Enc |
 |----------|----------|
-| ![Menu All](https://od.lk/s/NzNfMTA0ODk1OTkxXw/Screenshot_2025-09-09-22-03-51-534_com.termux.jpg) | ![Menu Enc](https://od.lk/s/NzNfMTA0ODk1OTkyXw/Screenshot_2025-09-09-22-04-09-141_com.termux.jpg) zaa
+| ![Menu All](https://od.lk/s/NzNfMTA0ODk1OTkxXw/Screenshot_2025-09-09-22-03-51-534_com.termux.jpg) | ![Menu Enc](https://od.lk/s/NzNfMTA0ODk1OTkyXw/Screenshot_2025-09-09-22-04-09-141_com.termux.jpg)
 
 ---
 
