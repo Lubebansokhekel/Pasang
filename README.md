@@ -4,7 +4,7 @@
 </p>
 
 # 🔧 TOOLS V5
-[logo TOOLSV5](https://od.lk/s/NzNfMTA0ODk1NzEwXw/IMG-20250908-WA0028.jpg)
+![logo TOOLSV5](https://od.lk/s/NzNfMTA0ODk1NzEwXw/IMG-20250908-WA0028.jpg)
 **TOOLS V5** adalah kumpulan script dan alat serbaguna berbasis Termux yang dibuat oleh **Galirus Official**.  
 Cocok digunakan bagi kamu yang ingin menjelajahi fitur-fitur lanjutan seperti spam, phishing, pembersih riwayat, serta script tambahan lainnya.
 
