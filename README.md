@@ -71,4 +71,4 @@ make run
 ## 📬 Kontak Developer
 - 📱 **WhatsApp**: [Klik di sini](https://wa.me/6285850268349)
 - 📧 **Email**: [galirusofficial@gmail.com](mailto:galirusofficial@gmail.com)
-- 🌐 **GitHub**: [Lubebansokhekel](https://github.com/Lubebansokhekel)
+- 🌐 **TESTIMONI**: [Klik Di Sini](https://whatsapp.com/channel/0029VbBOsQCK0IBq8MQTA23Y)
