@@ -20,6 +20,15 @@ Dengan TOOLS V5, kamu dapat memahami bagaimana sebuah script bekerja di Termux, 
 
 ⚡ Singkatnya, **TOOLS V5 = semua yang kamu butuhkan di Termux, praktis & powerful!**
 
+masih binggung ? oke jadi gini
+
+**📘 Edukatif (perumpamaan apa itu Toolsv5)**
+
+**Bayangkan TOOLS V5** seperti kotak **peralatan sekolah.**
+Di dalamnya ada **pensil, penggaris, penghapus, sampai buku catatan.** Semua beda fungsi, tapi bisa dipakai untuk belajar hal baru.
+Nah, di Termux, TOOLS V5 punya berbagai script — mulai dari **spam, phishing, sampai cleaner** — yang bisa kamu pelajari cara kerjanya satu per satu.
+**mudah bukan ! 😅**
+
 <h2 align="center">📸 Screenshot TOOLS V5</h2>
 
 | Menu Awal | Menu Spam |
