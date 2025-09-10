@@ -10,7 +10,7 @@
 Di dalamnya terdapat berbagai fitur seperti **spam tools, phishing kit, pembersih riwayat, dan script tambahan**, yang bisa dipelajari cara kerjanya.  
 Dengan TOOLS V5, kamu dapat memahami bagaimana sebuah script bekerja di Termux, sekaligus melatih kemampuan mengelola dan memodifikasi tool sesuai kebutuhan. 
 
-<h1 align="center">🔧  **kamu bisa langsung menikmati fitur-fitur keren seperti:**</h1>
+**kamu bisa langsung menikmati fitur-fitur keren seperti:**
 
 - 📩 **Spam Tools** (SMS, WhatsApp, dll)  
 - 🎭 **Phishing Kit** siap pakai  
@@ -19,10 +19,12 @@ Dengan TOOLS V5, kamu dapat memahami bagaimana sebuah script bekerja di Termux, 
 - Dll.
 
 ⚡ Singkatnya, **TOOLS V5 = semua yang kamu butuhkan di Termux, praktis & powerful!**
-
 masih binggung ? oke jadi gini
 
-<h1 align="center">🔧 **📘 Edukatif (perumpamaan apa itu Toolsv5)**</h1>
+
+
+
+**📘 Edukatif (perumpamaan apa itu Toolsv5)**
 
 **Bayangkan TOOLS V5** seperti kotak **peralatan sekolah.**
 Di dalamnya ada **pensil, penggaris, penghapus, sampai buku catatan.** Semua beda fungsi, tapi bisa dipakai untuk belajar hal baru.
