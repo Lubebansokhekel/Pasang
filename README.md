@@ -45,7 +45,7 @@ make install
 make run
 ```
 
-# WHATSAPP
-https://wa.me/6285850268349
-# GMAIL
-galirusofficial@gmail.com
+## 📬 Kontak Developer
+- 📱 **WhatsApp**: [Klik di sini](https://wa.me/6285850268349)
+- 📧 **Email**: [galirusofficial@gmail.com](mailto:galirusofficial@gmail.com)
+- 🌐 **GitHub**: [Lubebansokhekel](https://github.com/Lubebansokhekel)
