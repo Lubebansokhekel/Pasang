@@ -3,14 +3,14 @@
   <img src="GALIRUS_OFFICIAL_1757461081.gif" alt="WELCOME" />
 </p>
 
-# 🔧 TOOLS V5
+<h1 align="center">🔧 TOOLS V5</h1>
 ![logo TOOLSV5](https://od.lk/s/NzNfMTA0ODk1NzEwXw/IMG-20250908-WA0028.jpg)
 **TOOLS V5** adalah kumpulan script dan alat serbaguna berbasis Termux yang dibuat oleh **Galirus Official**.  
 Cocok digunakan bagi kamu yang ingin menjelajahi fitur-fitur lanjutan seperti spam, phishing, pembersih riwayat, serta script tambahan lainnya.
 
 ---
 
-## 📸 Screenshot TOOLS V5
+<h2 align="center">📸 Screenshot TOOLS V5</h2>
 
 | Menu Awal | Menu Spam |
 |-----------|-----------|
@@ -18,11 +18,11 @@ Cocok digunakan bagi kamu yang ingin menjelajahi fitur-fitur lanjutan seperti sp
 
 | Menu All | Menu Enc |
 |----------|----------|
-| ![Menu All](https://od.lk/s/NzNfMTA0ODk1OTkxXw/Screenshot_2025-09-09-22-03-51-534_com.termux.jpg) | ![Menu Enc](https://od.lk/s/NzNfMTA0ODk1OTkyXw/Screenshot_2025-09-09-22-04-09-141_com.termux.jpg)
+| ![Menu All](https://od.lk/s/NzNfMTA0ODk1OTkxXw/Screenshot_2025-09-09-22-03-51-534_com.termux.jpg) | ![Menu Enc](https://od.lk/s/NzNfMTA0ODk1OTkyXw/Screenshot_2025-09-09-22-04-09-141_com.termux.jpg) zaa
 
 ---
 
-## 🧰 Fitur-Fitur TOOLS V5
+<h2 align="center">🧰 Fitur-Fitur TOOLS V5</h2>
 
 - 📲 **Spam Tools** — Beragam metode spam (SMS, WA, dll)  
 - 🎣 **Phishing Kit** — Template & metode phising siap pakai  
