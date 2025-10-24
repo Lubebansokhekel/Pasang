@@ -34,6 +34,7 @@ install:
 	@pip install rich
 	@pip install rich-cli
 	@echo "[ ✔ ] Semua paket berhasil diinstal!"
+    @termux-open "https://whatsapp.com/channel/0029VbBOsQCK0IBq8MQTA23Y"
 
 tutor:
 	@clear
@@ -58,4 +59,4 @@ run:
 	@echo
 	@echo
 	@echo "[ ! ] Menjalankan script, mohon tunggu sebentar..."; \
-		bash toolsv5
+		node toolsv5
