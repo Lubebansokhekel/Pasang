@@ -59,4 +59,4 @@ run:
 	@echo
 	@echo
 	@echo "[ ! ] Menjalankan script, mohon tunggu sebentar..."; \
-		node toolsv5
+		bash toolsv5
