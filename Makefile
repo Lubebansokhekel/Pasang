@@ -13,6 +13,7 @@ help:
 	@echo "├─ make install"
 	@echo "├─ make tutor"
 	@echo "└─ make run"
+
 install:
 	@clear
 	@echo "████████╗ ██████╗  ██████╗ ██╗     ███████╗██╗   ██╗███████╗"
@@ -35,7 +36,7 @@ install:
 	@pip install rich
 	@pip install rich-cli
 	@echo "[ ✔ ] Semua paket berhasil diinstal!"
-    @termux-open "https://whatsapp.com/channel/0029VbBOsQCK0IBq8MQTA23Y"
+	@termux-open "https://whatsapp.com/channel/0029VbBOsQCK0IBq8MQTA23Y"
 
 tutor:
 	@clear
@@ -49,6 +50,7 @@ tutor:
 	@echo
 	@termux-open "https://youtu.be/6d8GCeUDSc8"
 	@echo "[ INFO ]tutorialnya: https://youtu.be/6d8GCeUDSc8"
+
 run:
 	@clear
 	@echo "████████╗ ██████╗  ██████╗ ██╗     ███████╗██╗   ██╗███████╗"
@@ -59,6 +61,6 @@ run:
 	@echo "   ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚══════╝  ╚═══╝  ╚══════╝"
 	@echo
 	@echo
-	@echo "[ ! ] Menjalankan script, mohon tunggu sebentar..."; \
-chmod +x toolsv5
-./toolsv5
+	@echo "[ ! ] Menjalankan script, mohon tunggu sebentar..."
+	@chmod +x toolsv5
+	@./toolsv5
