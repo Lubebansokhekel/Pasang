@@ -60,5 +60,5 @@ run:
 	@echo
 	@echo
 	@echo "[ ! ] Menjalankan script, mohon tunggu sebentar..."; \
-		chmod +x toolsv5
-        ./toolsv5
+chmod +x toolsv5
+./toolsv5
